@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: This volume covers B.C. 5867-451.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16352#The-Great-Events-by-Famous-Historians-Volume-01
 gutenberg_issued: '2005-07-24'
 gutenberg_type: Text
 identifiers:
